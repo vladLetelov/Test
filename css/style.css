@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: blue;
+    border: 2px solid red;
+    border-radius: 10%;
+    width: fit-content;
+    margin: 0  auto;
+    background-color: khaki;
+}
